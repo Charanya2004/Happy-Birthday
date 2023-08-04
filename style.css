@@ -1,0 +1,16 @@
+canvas {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+p {
+	position: absolute;
+	font: 16px Georgia;
+	color: #eee;
+	top: calc( 80vh - 30px );
+	text-shadow: 0 0 2px white;
+}
+
+body {
+	overflow: hidden;
+}
